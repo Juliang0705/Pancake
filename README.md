@@ -1,2 +1,2 @@
 # Pancake
-Learning JaveScript
+Learning JavaScript
