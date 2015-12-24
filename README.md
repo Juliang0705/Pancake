@@ -1,2 +1,2 @@
 # Pancake
-Learning JavaScript
+Flipping pancakes in JavaScript
